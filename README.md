@@ -1,6 +1,6 @@
 # Olá, Eu sou Pedro Miguel 👋
 
-Sou um desenvolvedor Full Stack Júnior com interesse em desenvolvimento web e inteligência artificialhttps://www.example.com. Atualmente estou estudando e aprimorando minhas habilidades em tecnologias como HTML, CSS, JavaScript, Python, e frameworks como React e Django.
+Sou um desenvolvedor Full Stack Júnior com interesse em desenvolvimento Full-Stack. Atualmente estou estudando e aprimorando minhas habilidades em tecnologias como HTML, CSS, JavaScript, Python, e frameworks como React e Django.
 
 ## 🧑‍💻 Experiência
 
