@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá, Bem Vindo!
 
+Eu sou Pedro Miguel, um desenvolvedor Full-Stack júnior
 <!--
 **ArctisDev/arctisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
