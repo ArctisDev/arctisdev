@@ -5,7 +5,7 @@ Sou um desenvolvedor Full Stack Júnior com interesse em desenvolvimento web e i
 ## 🧑‍💻 Experiência
 
 - **Estudante de Desenvolvimento Full-Stack**
-  - Descrição das atividades e tecnologias usadas.
+  - (Unimontes, Bocauiva, MG.)
 
 ## 📚 Habilidades
 
