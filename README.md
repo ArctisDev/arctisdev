@@ -23,7 +23,7 @@ Sou um desenvolvedor Full Stack Júnior com interesse em desenvolvimento Full-St
 
 - **LinkedIn**: 
 - **Email**: [mc33pedrobr@gmail.com](mailto:mc33pedrobr@gmail.com)
-- **Discord**: https://discord.com/users/866334109827596308 
+- **Discord**: [Contato](https://discord.com/users/866334109827596308)
 
 ---
 
