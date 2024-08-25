@@ -6,6 +6,7 @@ Sou um desenvolvedor Full Stack Júnior com interesse em desenvolvimento web e i
 
 - **Estudante de Desenvolvimento Full-Stack**
   - (Unimontes, Bocauiva, MG.)
+  - Início: 02/09/2024
 
 ## 📚 Habilidades
 
