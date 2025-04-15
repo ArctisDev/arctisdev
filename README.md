@@ -33,14 +33,14 @@ Sou estudante de **Desenvolvimento Full Stack**, apaixonado por tecnologia e em 
 ## 📫 Contato
 
 - 📧 Email: [mc33pedrobr@gmail.com](mailto:mc33pedrobr@gmail.com)  
-- 💼 LinkedIn: *(Adicione aqui o link do seu perfil)*  
+- 💼 LinkedIn: *N/A*  
 - 💬 Discord: [@Pedro#4270](https://discord.com/users/866334109827596308)
 
 ---
 
 ## 🌐 Meu site
 
-Em breve disponível! (ou adicione o link se já tiver)
+Em breve disponível!
 
 ---
 
