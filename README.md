@@ -35,7 +35,7 @@ Desenvolvimento de Sistemas – Unimontes
 ## Contato
 - Email: mc33pedrobr@gmail.com
 - LinkedIn: https://linkedin.com/in/hey-almeida
-- Discord: Pedro#4270
+- Discord: hey._almeida
 
 ---
 
