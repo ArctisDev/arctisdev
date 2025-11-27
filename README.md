@@ -45,4 +45,8 @@ https://studio.arctisdev.com/
 ---
 
 ### ✨ Valeu pela visita!
+<<<<<<< HEAD
 Explore os repositórios e acompanhe minha evolução como desenvolvedor.
+=======
+Explore os repositórios e acompanhe minha evolução como desenvolvedor.
+>>>>>>> 931d63cdc3f3e5135393c2180fce007c246b4621
