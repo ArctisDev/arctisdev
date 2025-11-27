@@ -19,9 +19,9 @@ Desenvolvimento Web – Unimontes
 ---
 
 ## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arctisdev&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arctisdev&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arctisdev&layout=compact&theme=radical&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arctisdev&layout=compact&theme=radical&count_private=true&hide=html,css)
 
 ---
 
