@@ -4,13 +4,13 @@ Desenvolvedor em formação, focado em Web e Back-end. Trabalho continuamente pa
 
 ---
 
-## 💼 Formação
+## Formação
 Desenvolvimento Web – Unimontes  
 📍 Bocaiuva, MG • Desde 02/09/2024
 
 ---
 
-## 🧠 Stack
+## Stack
 - Linguagens: JavaScript, C#, Node.js
 - Frameworks: React, Next.js, Vue, Tailwind
 - Banco de Dados: MySQL
@@ -18,28 +18,28 @@ Desenvolvimento Web – Unimontes
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 ![GitHub stats](https://github-readme-stats-murex-gamma-71.vercel.app/api?username=arctisdev&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats-murex-gamma-71.vercel.app/api/top-langs/?username=arctisdev&layout=compact&theme=radical&count_private=true&hide=html,css&cache_seconds=1800)
 
 ---
 
-## 🚀 Foco atual
+## Foco atual
 - Node.js
 - C#
 - APIs, back-end e boas práticas de versionamento
 
 ---
 
-## 📫 Contato
+## Contato
 - Email: mc33pedrobr@gmail.com
 - LinkedIn: https://linkedin.com/in/hey-almeida
 - Discord: Pedro#4270
 
 ---
 
-## 🌐 Site
+## Site
 https://studio.arctisdev.com/
 
 ---
