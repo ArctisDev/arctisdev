@@ -6,7 +6,7 @@ Sou estudante de **Desenvolvimento Full Stack**, apaixonado por tecnologia e em 
 
 ## 💼 Experiência
 
-- 🎓 **Estudante de Desenvolvimento Full Stack**  
+- 🎓 **Estudante de Desenvolvimento Web**  
   📍 *Unimontes - Bocaiuva, MG*  
   🗓️ *Desde 02/09/2024*
 
@@ -14,10 +14,10 @@ Sou estudante de **Desenvolvimento Full Stack**, apaixonado por tecnologia e em 
 
 ## 🧠 Habilidades
 
-- **Linguagens**: JavaScript, C#
-- **Frameworks e Bibliotecas**: React, Tailwind CSS
+- **Linguagens**: JavaScript, C#, NodeJS
+- **Frameworks e Bibliotecas**: ReactJS, NextJS, VueJS, Tailwind CSS
 - **Banco de Dados**: MySQL
-- **Ferramentas e Tecnologias**: Git, GitHub, Visual Studio Code
+- **Ferramentas e Tecnologias**: Git, GitHub
 
 ---
 
@@ -33,14 +33,14 @@ Sou estudante de **Desenvolvimento Full Stack**, apaixonado por tecnologia e em 
 ## 📫 Contato
 
 - 📧 Email: [mc33pedrobr@gmail.com](mailto:mc33pedrobr@gmail.com)  
-- 💼 LinkedIn: *N/A*  
+- 💼 LinkedIn: [hey_almeida](linkedin.com/in/hey-almeida/)  
 - 💬 Discord: [@Pedro#4270](https://discord.com/users/866334109827596308)
 
 ---
 
 ## 🌐 Meu site
 
-Em breve disponível!
+[Ir ao Site](https://studio.arctisdev.com/)
 
 ---
 
