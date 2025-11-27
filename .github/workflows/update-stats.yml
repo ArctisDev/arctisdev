@@ -1,0 +1,27 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: ArctisDev
+          token: ${{ secrets.STATS_TOKEN }}  # Usa o segredo
+          output_dir: stats
+          include_all_commits: true
+          count_private: true
+          theme: radical
+          show_icons: true
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.STATS_TOKEN }}
+          publish_dir: ./stats
+          destination_dir: stats  # Salva na branch gh-pages ou uma custom
