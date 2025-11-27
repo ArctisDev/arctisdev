@@ -9,19 +9,26 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: lowlighter/metrics@latest
         with:
-          username: ArctisDev
-          token: ${{ secrets.STATS_TOKEN }}  # Usa o segredo
-          output_dir: stats
-          include_all_commits: true
-          count_private: true
-          theme: radical
-          show_icons: true
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+          token: ${{ secrets.STATS_TOKEN }}  # Usa o segredo customizado
+          plugin_isocalendar: yes  # Adiciona um calendário de commits
+          plugin_languages: yes  # Adiciona linguagens
+          plugin_languages_details: bytes-size, percentage  # Detalhes das linguagens
+          plugin_habits: yes  # Hábitos de commits
+          plugin_habits_charts: yes
+          output_action: gist  # Salva em um gist (ou use 'none' para arquivo local)
+          gist: SEU_GIST_ID  # Opcional: ID de um gist público para salvar (crie um em https://gist.github.com/)
+          filename: github-metrics.svg
+          config_timezone: America/Sao_Paulo  # Ajuste para seu fuso horário
+      - name: Deploy SVG to Repository  # Se quiser salvar no repo em vez de gist
+        run: |
+          mkdir -p stats
+          cp github-metrics.svg stats/
+      - uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.STATS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./stats
-          destination_dir: stats  # Salva na branch gh-pages ou uma custom
+          destination_dir: stats
