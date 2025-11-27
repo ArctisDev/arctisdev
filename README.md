@@ -19,9 +19,9 @@ Desenvolvimento Web – Unimontes
 ---
 
 ## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arctisdev&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats-murex-gamma-71.vercel.app/api?username=arctisdev&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arctisdev&layout=compact&theme=radical&count_private=true&hide=html,css)
+![Top Langs](https://github-readme-stats-murex-gamma-71.vercel.app/api/top-langs/?username=arctisdev&layout=compact&theme=radical&count_private=true&hide=html,css)
 
 ---
 
@@ -45,8 +45,5 @@ https://studio.arctisdev.com/
 ---
 
 ### ✨ Valeu pela visita!
-<<<<<<< HEAD
+
 Explore os repositórios e acompanhe minha evolução como desenvolvedor.
-=======
-Explore os repositórios e acompanhe minha evolução como desenvolvedor.
->>>>>>> 931d63cdc3f3e5135393c2180fce007c246b4621
