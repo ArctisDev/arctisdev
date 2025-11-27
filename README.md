@@ -5,7 +5,7 @@ Desenvolvedor em formação, focado em Web e Back-end. Trabalho continuamente pa
 ---
 
 ## Formação
-Desenvolvimento Web – Unimontes  
+Desenvolvimento de Sistemas – Unimontes  
 📍 Bocaiuva, MG • Desde 02/09/2024
 
 ---
