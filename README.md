@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Pedro Miguel
 
-Sou estudante de **Desenvolvimento Full Stack**, apaixonado por tecnologia e em constante evolução. Atualmente estou aprimorando minhas habilidades em tecnologias como **HTML**, **CSS**, **JavaScript**, além de explorar frameworks modernos como **React** e linguagens como **C#**.
+Sou estudante de **Desenvolvimento Web**, apaixonado por tecnologia e em constante evolução. Atualmente estou aprimorando minhas habilidades em tecnologias como **HTML**, **CSS**, **JavaScript**, além de explorar frameworks modernos como **VueJS** e linguagens como **NodeJS**.
 
 ---
 
