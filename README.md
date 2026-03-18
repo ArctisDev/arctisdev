@@ -1,50 +1,84 @@
-# 👋 Pedro Miguel 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=980&lines=Pedro+Miguel+de+Almeida+Silva;Backend+Developer+focused+on+Go;Building+reliable+APIs%2C+deployments%2C+and+production+workflows" alt="Typing SVG" />
+</p>
 
-Developer in training, focused on Web and Back-end. I continuously work to elevate my skillset with Golang, Docker, MySQL, Linux, TypeScript and modern frameworks like React, Next.js, and Vue.
+<p align="center">
+  Backend-first developer focused on Go, REST APIs, SQL, Docker, Linux, and production-ready deployment workflows.
+</p>
 
----
+<p align="center">
+  <a href="https://studio.arctisdev.com/">Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/hey-almeida/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:mc33pedrobr@gmail.com">Email</a>
+</p>
 
-## Education
-Systems Development – Unimontes
-📍 Bocaiuva, MG • Since 09/02/2024
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Go%20Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Focus: Go Backend" />
+  <img src="https://img.shields.io/badge/Stack-REST%20APIs%20%7C%20SQL%20%7C%20Docker-111827?style=for-the-badge" alt="Stack: REST APIs, SQL, Docker" />
+  <img src="https://img.shields.io/badge/Location-Brazil-166534?style=for-the-badge" alt="Location: Brazil" />
+</p>
 
----
+## About Me
 
-## Stack
-- Languages: Golang, Node.JS
-- Frameworks: React, Next.js, Vue, Tailwind
-- Databases: MySQL, MariaDB
-- Tools: Git, GitHub, Docker
+I am a backend developer from Bocaiuva, Minas Gerais, Brazil, currently studying Systems Development at Unimontes. My positioning today is backend-first, with a strong focus on Go for APIs, service architecture, deployment automation, and reliable production workflows.
 
----
+I enjoy building software that is practical, secure, and operationally simple. Most of my recent work has been centered on backend services, containerized deployments, SQL-driven systems, and the infrastructure needed to ship and maintain web products with confidence.
 
-## Statistics
-![GitHub stats](https://github-readme-stats-murex-gamma-71.vercel.app/api?username=arctisdev&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+I am currently sharpening my backend profile around Go, database design, deployment tooling, and production reliability.
 
-![Top Langs](https://github-readme-stats-murex-gamma-71.vercel.app/api/top-langs/?username=arctisdev&layout=compact&theme=radical&count_private=true&hide=html,css&cache_seconds=1800)
+## Selected Work
 
----
+| Project | What I built | Stack |
+| --- | --- | --- |
+| Arctis Deploy | Built a Go-based deployment platform with a control plane + deploy agent architecture, tenant isolation, secure artifact uploads, custom domains, disk monitoring, and automation focused on safe deployments. | Go, Docker, Linux, Nginx |
+| School Portal in Production | Delivered a production portal for a public school community with JWT authentication, password hashing, rate limiting, security headers, containerized deployment, and measurable search traction (2.48k impressions, 155 clicks, 6.2% CTR, average position 2.9). | Node.js, Express, MongoDB, Docker |
+
+## Backend Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/GORM-1F2937?style=flat-square" alt="GORM" />
+  <img src="https://img.shields.io/badge/REST_API-0F766E?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-334155?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-1D4ED8?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Redis-Basic-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-Basic-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 ## Current Focus
-- Golang
-- Docker
-- MySQL
-- APIs, back-end, and versioning best practices
 
----
+- Building cleaner backend services in Go
+- Designing secure APIs and authentication flows
+- Improving deployment automation and operational reliability
+- Writing code that is simple to maintain and safe to run in production
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-murex-gamma-71.vercel.app/api?username=ArctisDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-murex-gamma-71.vercel.app/api/top-langs/?username=ArctisDev&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=github_dark" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ArctisDev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f59e0b&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/ArctisDev/arctisdev/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
 
 ## Contact
-- Email: mc33pedrobr@gmail.com
-- LinkedIn: https://linkedin.com/in/hey-almeida
-- Discord: hey._almeida
 
----
-
-## Website
-https://studio.arctisdev.com/
-
----
-
-### ✨ Thanks for the visit!
-
-Explore the [repositories](https://github.com/ArctisDev?tab=repositories) and follow my progress as a developer.
+- Portfolio: [studio.arctisdev.com](https://studio.arctisdev.com/)
+- LinkedIn: [linkedin.com/in/hey-almeida](https://www.linkedin.com/in/hey-almeida/)
+- Email: [mc33pedrobr@gmail.com](mailto:mc33pedrobr@gmail.com)
+- Languages: Portuguese (native), English (conversational)
