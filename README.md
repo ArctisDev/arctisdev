@@ -1,49 +1,50 @@
-# 👋 Pedro Miguel
+# 👋 Pedro Miguel 
 
-Desenvolvedor em formação, focado em Web e Back-end. Trabalho continuamente para elevar meu skillset com HTML, CSS, JavaScript, Node.js, C# e frameworks modernos como React, Next.js e Vue.
+Developer in training, focused on Web and Back-end. I continuously work to elevate my skillset with Golang, Docker, MySQL, Linux, TypeScript and modern frameworks like React, Next.js, and Vue.
 
 ---
 
-## Formação
-Desenvolvimento de Sistemas – Unimontes  
-📍 Bocaiuva, MG • Desde 02/09/2024
+## Education
+Systems Development – Unimontes
+📍 Bocaiuva, MG • Since 09/02/2024
 
 ---
 
 ## Stack
-- Linguagens: JavaScript, C#, Node.js
+- Languages: Golang, Node.JS
 - Frameworks: React, Next.js, Vue, Tailwind
-- Banco de Dados: MySQL
-- Ferramentas: Git, GitHub
+- Databases: MySQL, MariaDB
+- Tools: Git, GitHub, Docker
 
 ---
 
-## Estatísticas
+## Statistics
 ![GitHub stats](https://github-readme-stats-murex-gamma-71.vercel.app/api?username=arctisdev&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats-murex-gamma-71.vercel.app/api/top-langs/?username=arctisdev&layout=compact&theme=radical&count_private=true&hide=html,css&cache_seconds=1800)
 
 ---
 
-## Foco atual
-- Node.js
-- C#
-- APIs, back-end e boas práticas de versionamento
+## Current Focus
+- Golang
+- Docker
+- MySQL
+- APIs, back-end, and versioning best practices
 
 ---
 
-## Contato
+## Contact
 - Email: mc33pedrobr@gmail.com
 - LinkedIn: https://linkedin.com/in/hey-almeida
 - Discord: hey._almeida
 
 ---
 
-## Site
+## Website
 https://studio.arctisdev.com/
 
 ---
 
-### ✨ Valeu pela visita!
+### ✨ Thanks for the visit!
 
-Explore os repositórios e acompanhe minha evolução como desenvolvedor.
+Explore the [repositories](https://github.com/ArctisDev?tab=repositories) and follow my progress as a developer.
