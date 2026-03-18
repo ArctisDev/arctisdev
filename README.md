@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  Backend-first developer focused on Go, REST APIs, SQL, Docker, Linux, and production-ready deployment workflows.
+  Backend-first developer focused on Go, REST APIs, SQL, Docker, 
+  <br>
+  Linux, and production-ready deployment workflows.
 </p>
 
 <p align="center">
