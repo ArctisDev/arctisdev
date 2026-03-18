@@ -2,10 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=880&lines=Pedro+Miguel+de+Almeida+Silva;Backend+Developer+focused+on+Go;Reliable+APIs+and+deployment+workflows" alt="Typing SVG" />
 </p>
 
+<h1 align="center">Backend systems with secure defaults and production focus.</h1>
+
 <p align="center">
-  Backend-first developer focused on Go, REST APIs, SQL, Docker, 
+  Go-first developer building APIs, deployment tooling, and SQL-backed services.
   <br>
-  Linux, and production-ready deployment workflows.
+  Focused on maintainable systems that are ready to run in production.
 </p>
 
 <p align="center">
@@ -20,6 +22,14 @@
   <img src="https://img.shields.io/badge/Focus-Go%20Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Focus: Go Backend" />
   <img src="https://img.shields.io/badge/Stack-REST%20APIs%20%7C%20SQL%20%7C%20Docker-111827?style=for-the-badge" alt="Stack: REST APIs, SQL, Docker" />
   <img src="https://img.shields.io/badge/Location-Brazil-166534?style=for-the-badge" alt="Location: Brazil" />
+</p>
+
+<p align="center">
+  <strong>Backend systems</strong> &middot; Go APIs, authentication flows, SQL-driven services
+  <br>
+  <strong>Deployment tooling</strong> &middot; Docker, Linux, CI/CD, release workflows
+  <br>
+  <strong>Production mindset</strong> &middot; security, reliability, and maintainable code
 </p>
 
 ## About Me
@@ -37,24 +47,19 @@ I am currently sharpening my backend profile around Go, database design, deploym
 | Arctis Deploy | Built a Go-based deployment platform with a control plane + deploy agent architecture, tenant isolation, secure artifact uploads, custom domains, disk monitoring, and automation focused on safe deployments. | Go, Docker, Linux, Nginx |
 | School Portal in Production | Delivered a production portal for a public school community with JWT authentication, password hashing, rate limiting, security headers, containerized deployment, and measurable search traction (2.48k impressions, 155 clicks, 6.2% CTR, average position 2.9). | Node.js, Express, MongoDB, Docker |
 | Arctis Deploy Marketing Site | Built the product-facing site around real platform metrics, product pages, documentation surfaces, and integrations for a cleaner SaaS presentation layer. | Next.js, TypeScript, Tailwind |
-| Book Cataloging System | Built a Python-based cataloging workflow with barcode input, parallel API lookups, local caching, and AI-assisted metadata suggestions for faster operation. | Python, Streamlit, APIs |
+| Book Cataloging System | Built a Python-based cataloging workflow for the Monteiro Lobato library project at Gastao Valle school, supporting the initial registration of existing books and their migration into the library application with barcode input, parallel API lookups, local caching, and AI-assisted metadata suggestions. | Python, Streamlit, APIs |
 
-## Backend Toolkit
+## Core Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/GORM-1F2937?style=flat-square" alt="GORM" />
   <img src="https://img.shields.io/badge/REST_API-0F766E?style=flat-square" alt="REST API" />
   <img src="https://img.shields.io/badge/JWT-334155?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL-1D4ED8?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Redis-Basic-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/GitHub_Actions-Basic-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
