@@ -47,7 +47,6 @@ I am currently sharpening my backend profile around Go, database design, deploym
 | Arctis Deploy | Built a Go-based deployment platform with a control plane + deploy agent architecture, tenant isolation, secure artifact uploads, custom domains, disk monitoring, and automation focused on safe deployments. | Go, Docker, Linux, Nginx |
 | School Portal in Production | Delivered a production portal for a public school community with JWT authentication, password hashing, rate limiting, security headers, containerized deployment, and measurable search traction (2.48k impressions, 155 clicks, 6.2% CTR, average position 2.9). | Node.js, Express, MongoDB, Docker |
 | Arctis Deploy Marketing Site | Built the product-facing site around real platform metrics, product pages, documentation surfaces, and integrations for a cleaner SaaS presentation layer. | Next.js, TypeScript, Tailwind |
-| ref-808 Store | Full-stack audio workstation interface with real-time synthesis, sequencing, and intuitive UI for electronic music production | Next.js · Node.js · TypeScript |
 
 
 ## Core Toolkit
