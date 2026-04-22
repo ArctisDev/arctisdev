@@ -74,7 +74,7 @@ I am currently sharpening my backend profile around Go, database design, deploym
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-murex-gamma-71.vercel.app/api?username=ArctisDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=default&theme=github_dark" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-murex-gamma-71.vercel.app/api/top-langs/?username=ArctisDev&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=github_dark" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-murex-gamma-71.vercel.app/api/top-langs/?username=ArctisDev&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=github_dark&v=1" alt="Top languages" />
 </p>
 
 <p align="center">
